@@ -1,0 +1,134 @@
+{
+  "BESS": {
+    "house_no": "BESS",
+    "timestamp": "2023-12-09T08:57:00.226666+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "-0.21",
+    "RAW_RA_P_H": "3.22",
+    "RAW_PF_P_H": "-1.97",
+    "RAW_VolA_P_H": "226.88",
+    "RAW_VolB_P_H": "228.33",
+    "RAW_VolC_P_H": "226.69"
+  },
+  "BLD_10kW": {
+    "house_no": "BLD_10kW",
+    "timestamp": "2023-12-09T08:57:00.230000+00:00",
+    "RAW_Freq_H": "-nan(ind)",
+    "RAW_A_P_H": "0.00",
+    "RAW_RA_P_H": "0.00",
+    "RAW_PF_P_H": "-nan(ind)",
+    "RAW_VolA_P_H": "0.00",
+    "RAW_VolB_P_H": "0.00",
+    "RAW_VolC_P_H": "0.00"
+  },
+  "BLD_Seminar": {
+    "house_no": "BLD_Seminar",
+    "timestamp": "2023-12-09T08:57:00.230000+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "0.00",
+    "RAW_RA_P_H": "0.00",
+    "RAW_PF_P_H": "-nan(ind)",
+    "RAW_VolA_P_H": "226.87",
+    "RAW_VolB_P_H": "228.30",
+    "RAW_VolC_P_H": "226.78"
+  },
+  "BLD_SEPCOM": {
+    "house_no": "BLD_SEPCOM",
+    "timestamp": "2023-12-09T08:57:00.233333+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "0.58",
+    "RAW_RA_P_H": "4.12",
+    "RAW_PF_P_H": "0.14",
+    "RAW_VolA_P_H": "226.88",
+    "RAW_VolB_P_H": "228.44",
+    "RAW_VolC_P_H": "226.81"
+  },
+  "BLD_SERT": {
+    "house_no": "BLD_SERT",
+    "timestamp": "2023-12-09T08:57:00.236666+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "-5.36",
+    "RAW_RA_P_H": "-1.56",
+    "RAW_PF_P_H": "-0.76",
+    "RAW_VolA_P_H": "226.66",
+    "RAW_VolB_P_H": "228.32",
+    "RAW_VolC_P_H": "226.50"
+  },
+  "BLD_SGTech": {
+    "house_no": "BLD_SGTech",
+    "timestamp": "2023-12-09T08:57:00.240000+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "0.62",
+    "RAW_RA_P_H": "-0.26",
+    "RAW_PF_P_H": "1.25",
+    "RAW_VolA_P_H": "226.59",
+    "RAW_VolB_P_H": "228.20",
+    "RAW_VolC_P_H": "226.63"
+  },
+  "BLD_Testing": {
+    "house_no": "BLD_Testing",
+    "timestamp": "2023-12-09T08:57:00.243333+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "0.39",
+    "RAW_RA_P_H": "-0.98",
+    "RAW_PF_P_H": "1.63",
+    "RAW_VolA_P_H": "226.69",
+    "RAW_VolB_P_H": "228.25",
+    "RAW_VolC_P_H": "226.55"
+  },
+  "EV": {
+    "house_no": "EV",
+    "timestamp": "2023-12-09T08:57:00.246666+00:00",
+    "RAW_Freq_H": "-nan(ind)",
+    "RAW_A_P_H": "0.00",
+    "RAW_RA_P_H": "0.00",
+    "RAW_PF_P_H": "-nan(ind)",
+    "RAW_VolA_P_H": "0.00",
+    "RAW_VolB_P_H": "0.00",
+    "RAW_VolC_P_H": "0.00"
+  },
+  "PV_10kW": {
+    "house_no": "PV_10kW",
+    "timestamp": "2023-12-09T08:57:00.250000+00:00",
+    "RAW_Freq_H": "0.00",
+    "RAW_A_P_H": "0.00",
+    "RAW_RA_P_H": "0.00",
+    "RAW_PF_P_H": "0.00",
+    "RAW_VolA_P_H": "0.00",
+    "RAW_VolB_P_H": "0.00",
+    "RAW_VolC_P_H": "0.00"
+  },
+  "PV_350kW": {
+    "house_no": "PV_350kW",
+    "timestamp": "2023-12-09T08:57:00.250000+00:00",
+    "RAW_Freq_H": "49.96",
+    "RAW_A_P_H": "-70.26",
+    "RAW_RA_P_H": "4.12",
+    "RAW_PF_P_H": "-1.00",
+    "RAW_VolA_P_H": "226.84",
+    "RAW_VolB_P_H": "228.33",
+    "RAW_VolC_P_H": "226.72"
+  },
+  "PV_Seminar": {
+    "house_no": "PV_Seminar",
+    "timestamp": "2023-12-09T08:57:00.253333+00:00",
+    "RAW_Freq_H": "0.00",
+    "RAW_A_P_H": "0.00",
+    "RAW_RA_P_H": "0.00",
+    "RAW_PF_P_H": "0.00",
+    "RAW_VolA_P_H": "0.00",
+    "RAW_VolB_P_H": "0.00",
+    "RAW_VolC_P_H": "0.00"
+  },
+  "PV_SERT": {
+    "house_no": "PV_SERT",
+    "timestamp": "2023-12-09T08:57:00.223333+00:00",
+    "RAW_Freq_H": "49.95",
+    "RAW_A_P_H": "11.01",
+    "RAW_RA_P_H": "-1.31",
+    "RAW_PF_P_H": "1.01",
+    "RAW_VolA_P_H": "226.24",
+    "RAW_VolB_P_H": "229.00",
+    "RAW_VolC_P_H": "226.79"
+  }
+}
